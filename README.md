@@ -1,6 +1,8 @@
 # Java-Console-Shopping-System
 This is a simple Java console application for an online shopping system. It allows users to log in, buy products, cancel products, display all products, and log out. The application uses a HashMap to store user credentials and a separate Business Logic (BL) class to handle the buying and cancelling of products.
 
+This code is a good starting point for anyone who wants to learn Java programming or develop a more complex shopping system. Feel free to use and modify the code according to your needs.
+
 ## Getting Started
 To run this program, you'll need Java installed on your computer. Clone this repository and navigate to the directory containing the "MainApp1.java" file. Then, compile and run the program using the following commands in your terminal:
 
